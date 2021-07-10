@@ -18,7 +18,8 @@
             android:layout_gravity="center"
             android:layout_marginTop="120dp"
             android:textAllCaps="false"
-            android:text="button 1" />
+            android:backgroundTint="@color/gray"
+            android:text="@string/button1" />
 
         <Button
             android:id="@+id/button1"
@@ -27,7 +28,8 @@
             android:layout_gravity="center"
             android:layout_marginTop="20dp"
             android:textAllCaps="false"
-            android:text="button 2" />
+            android:backgroundTint="@color/gray"
+            android:text="@string/button2" />
 
         <Button
             android:id="@+id/button"
@@ -36,7 +38,8 @@
             android:layout_gravity="center"
             android:layout_marginTop="20dp"
             android:textAllCaps="false"
-            android:text="button 3" />
+            android:backgroundTint="@color/gray"
+            android:text="@string/button3" />
 
     </LinearLayout>
 
